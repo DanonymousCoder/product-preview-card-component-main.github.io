@@ -10,3 +10,6 @@ body {
     display: flex;
     justify-content: center;
 }
+.container {
+    background-color: white;
+}
