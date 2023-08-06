@@ -50,7 +50,7 @@ body {
     display: flex;
     gap: 5rem;
 }
-.dollar .head {
+.dollar p.head {
     color: hsl(158, 36%, 37%);
     font-size: 25px;
 }
