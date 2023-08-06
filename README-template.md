@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DanonymousCoder/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://dan.com)
+- Solution URL: [Add solution URL here](https://github.com/DanonymousCoder/product-preview-card-component-main.github.io)
+- Live Site URL: [Add live site URL here](https://danonymous.github.io/product-preview-card-component-main.github.io)
 
 ## My process
 
