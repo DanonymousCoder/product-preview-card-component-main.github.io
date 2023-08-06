@@ -38,7 +38,7 @@ body {
 .txt p.perf {
     color: hsl(228, 12%, 48%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    letter-spacing: 5px;
+    letter-spacing: 7px;
 }
 .txt p.gab {
     font-size: 40px;
