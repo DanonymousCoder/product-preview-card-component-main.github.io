@@ -75,6 +75,7 @@ body {
     gap: .5rem;
     text-decoration: none;
     color: white;
+    font-weight: 700;
     font-family: url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap" rel="stylesheet');
 }
 .btn img {
