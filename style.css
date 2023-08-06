@@ -31,6 +31,7 @@ body {
 .txt {
     display: flex;
     flex-direction: column;
+    gap: 1.5rem;
 }
 .btn {
     background-color: hsl(158, 36%, 37%);
