@@ -52,6 +52,7 @@ body {
 }
 .dollar .head {
     color: hsl(158, 36%, 37%);
+    font-size: 25px;
 }
 .but {
     justify-content: flex-start;
