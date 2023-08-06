@@ -105,6 +105,7 @@ body {
     .txt {
         margin: 0;
         padding: 0 20px;
+        gap: 2rem;
     }
     .txt p.gab {
         font-size: 30px;
