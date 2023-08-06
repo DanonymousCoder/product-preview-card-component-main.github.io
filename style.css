@@ -50,6 +50,9 @@ body {
     display: flex;
     gap: 5rem;
 }
+.dollar .head {
+    color: hsl(158, 36%, 37%);
+}
 .but {
     justify-content: flex-start;
     align-items: flex-start;
