@@ -14,7 +14,7 @@ body {
 .container {
     background-color: white;
     display: flex;
-    gap: 3rem;
+    gap: 2rem;
     height: 450px;
     width: 600px;
     position: absolute;
