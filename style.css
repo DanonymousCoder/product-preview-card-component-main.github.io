@@ -30,6 +30,7 @@ body {
 }
 .txt {
     display: flex;
+    flex-direction: column;
 }
 .btn {
     background-color: hsl(158, 36%, 37%);
