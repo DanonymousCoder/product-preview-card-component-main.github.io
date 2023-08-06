@@ -32,7 +32,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    padding-top: 20px;
+    padding-top: 25px;
 }
 .txt p.perf {
     color: hsl(228, 12%, 48%);
