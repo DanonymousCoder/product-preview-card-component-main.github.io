@@ -93,7 +93,7 @@ body {
 
 
 /* Style for screen size 345px */
-@media (min-width: 320px) (max-width: 345px) {
+@media (min-width: 320px) (max-width: 767px) {
     .container {
         flex-direction: column;
     }
