@@ -50,6 +50,7 @@ body {
     border-radius: 10px;
     gap: .5rem;
     text-decoration: none;
+    color: white;
 }
 .btn img {
     height: 20px;
