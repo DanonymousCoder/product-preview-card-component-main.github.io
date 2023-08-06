@@ -14,3 +14,6 @@ body {
     background-color: white;
     display: flex;
 }
+.container img {
+    height: 500px;
+}
