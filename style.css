@@ -48,11 +48,11 @@ body {
 }
 .dollar {
     display: flex;
-    gap: 5rem;
+    gap: 4.5rem;
 }
 .dollar p.head {
     color: hsl(158, 36%, 37%);
-    font-size: 35px;
+    font-size: 40px;
 }
 .but {
     justify-content: flex-start;
