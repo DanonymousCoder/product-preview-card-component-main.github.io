@@ -83,7 +83,7 @@ body {
     gap: .5rem;
     text-decoration: none;
     color: white;
-    font-weight: bolder;
+    font-weight: 700;
 }
 .btn img {
     height: 20px;
