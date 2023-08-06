@@ -48,7 +48,7 @@ body {
 }
 .dollar {
     display: flex;
-    gap: 4.5rem;
+    gap: 3.5rem;
 }
 .dollar p.head {
     color: hsl(158, 36%, 37%);
