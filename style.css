@@ -5,11 +5,12 @@
 }
 body {
     background-color: hsl(30, 38%, 92%);
-}
-.body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.body {
+   
 }
 .container {
     background-color: white;
