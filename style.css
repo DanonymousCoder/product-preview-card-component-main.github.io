@@ -49,6 +49,7 @@ body {
     padding: 15px;
     border-radius: 10px;
     gap: .5rem;
+    text-decoration: none;
 }
 .btn img {
     height: 20px;
