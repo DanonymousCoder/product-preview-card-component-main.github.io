@@ -54,6 +54,9 @@ body {
     color: hsl(158, 36%, 37%);
     font-size: 40px;
 }
+.dollar p.sub {
+    font-size: 14px;
+}
 .but {
     justify-content: flex-start;
     align-items: flex-start;
