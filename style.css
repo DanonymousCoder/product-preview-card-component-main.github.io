@@ -97,7 +97,7 @@ body {
     .container {
         flex-direction: column;
         width:320px ;
-        height: 600px;
+        height: 640px;
     }
     .container img {
         width: 320px;
