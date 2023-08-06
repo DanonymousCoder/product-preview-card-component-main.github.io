@@ -42,6 +42,7 @@ body {
 }
 .but {
     justify-content: flex-start;
+    align-items: flex-start;
 }
 .btn {
     background-color: hsl(158, 36%, 37%);
