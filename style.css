@@ -42,6 +42,8 @@ body {
 }
 .btn {
     background-color: hsl(158, 36%, 37%);
+    display: flex;
+    align-items: center;
 }
 .btn img {
     height: 40px;
