@@ -57,7 +57,7 @@ body {
 }
 .dollar p.sub {
     font-size: 14px;
-    text-decoration: dashed;
+    text-decoration: line-through;
 }
 .but {
     justify-content: flex-start;
