@@ -28,6 +28,9 @@ body {
     width: 470px;
     border-radius: 10px;
 }
+.txt {
+    display: flex;
+}
 .btn {
     background-color: hsl(158, 36%, 37%);
 }
