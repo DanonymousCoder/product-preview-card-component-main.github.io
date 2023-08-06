@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/DanonymousCoder/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://dan.com)
 
 ## My process
 
@@ -42,12 +42,9 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
