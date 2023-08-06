@@ -93,6 +93,6 @@ body {
 
 
 /* Style for screen size 345px */
-@media  {
+@media (max-width: 345px) {
     
 }
