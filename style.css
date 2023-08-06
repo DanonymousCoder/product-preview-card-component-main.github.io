@@ -48,6 +48,7 @@ body {
 }
 .dollar {
     display: flex;
+    gap: 4rem;
 }
 .but {
     justify-content: flex-start;
