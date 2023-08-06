@@ -96,7 +96,7 @@ body {
 @media (min-width: 320px) and (max-width: 767px) {
     .container {
         flex-direction: column;
-        width:300px ;
+        width:320px ;
     }
     .container img {
         width: 320px;
