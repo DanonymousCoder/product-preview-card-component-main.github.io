@@ -54,7 +54,7 @@ body {
 }
 .txt p.sub {
     font-size: 14px;
-   
+   line-height: 1.5;
 }
 .dollar {
     display: flex;
