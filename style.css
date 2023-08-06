@@ -3,6 +3,7 @@
 }
 #monst {
     font-family: 'Monsterrat', sans-serif;
+    color: hsl(228, 12%, 48%);
 }
 * {
     margin: 0;
