@@ -27,3 +27,6 @@ body {
     width: 470px;
     border-radius: 10px;
 }
+.btn img {
+    height: 40px;
+}
